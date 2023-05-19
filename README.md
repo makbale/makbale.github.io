@@ -1,2 +1,2 @@
 to see my website(beta version)
-link:- makbale.github.io/Cepheus
+link:- https://makbale.github.io/Cepheus
